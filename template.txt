@@ -1,0 +1,11 @@
+Hola %%5%%.
+
+Desde nuestra empresa sabemos que estáis empezando nuevos
+proyectos en %%2%% y queremos ayudarte a que tenga éxito en
+estos tiempos difíciles.
+
+Para ello, vamos a compartir tu correo %%3%% con nuestro
+departamento técnico en %%4%% para que se pongan en contacto y
+podamos realizar una propuesta conjunta.
+
+Un saludo.
